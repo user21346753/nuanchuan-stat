@@ -1,0 +1,7 @@
+name = "nuanchuan-stat"
+main = "worker.js"
+compatibility_date = "2024-09-01"
+
+[[kv_namespaces]]
+binding = "KM"
+id = "967571a1f43b4acfb068952148a779c0"
